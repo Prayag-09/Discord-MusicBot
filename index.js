@@ -21,4 +21,9 @@ const client = new Discord.Client({
     ]
 });
 
-client.loadSlash
+client.slashcommands = new Discord.Collection()
+client.player = new Player( client , {
+    ytdlOptions : {
+        
+    }
+})
