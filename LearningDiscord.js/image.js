@@ -1,0 +1,1 @@
+const Canvas = requrie("Canvas")
