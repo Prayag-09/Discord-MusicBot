@@ -1,3 +1,4 @@
 # Discord-MusicBot
 
-Made using Node.js
+BotName : musical-bot01
+CreatedOn : Nov 6
